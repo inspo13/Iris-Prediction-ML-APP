@@ -3,11 +3,11 @@
 #Contributor Prachi Bhatt
 
 
-#Iris Prediction ML Model Deployed on Android App:-
+Iris Prediction ML Model Deployed on Android App:-
 
-#This project consists of a classification example called the iris species prediction. The dataset contains three classes of 50 instances each, where each class refers to the type of iris plant.
-#Attribute information:
-#sepal length in cm
+This project consists of a classification example called the iris species prediction. The dataset contains three classes of 50 instances each, where each class refers to the type of iris plant.
+Attribute information:
+sepal length in cm
 sepal width in cm
 petal length in cm
 petal width in cm
@@ -26,3 +26,6 @@ Your model will look like this after clicking on the finish.
 Copy the code and paste it in the click listener of a button in MainActivity.kt.
 
 Wooohoo, App is ready to use! 
+
+Screenshots of the App:
+
