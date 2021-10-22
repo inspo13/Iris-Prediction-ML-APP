@@ -50,5 +50,5 @@ get created in the same directory where iris.data resides. ꢀ
 
 \10. Copy the code and paste it in the click listener of a button in MainActivity.kt.ꢀ
 
-Wooohoo the App is ready to use ꢀ
+Woohoo, App is ready! ꢀ
 
