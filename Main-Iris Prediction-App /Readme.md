@@ -21,7 +21,7 @@ Attribute information:ꢀ
 
 Based on the information given in the input, the Android App will predict whether the plant is
 
-Iris Setosa, Iris Versicolour, or Iris Virginica. ꢀ
+Iris Setosa, Iris Versicolor, or Iris Virginica. ꢀ
 
 Steps to create the project:ꢀ
 
