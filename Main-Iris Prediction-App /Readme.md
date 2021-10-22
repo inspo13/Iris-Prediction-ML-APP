@@ -18,17 +18,16 @@ Attribute information:ꢀ
 
 \4. petal width in cmꢀ
 
+
 Based on the information given in the input, the Android App will predict whether the plant is
 
 Iris Setosa, Iris Versicolour, or Iris Virginica. ꢀ
 
 Steps to create the project:ꢀ
 
-\1. Download the iris data set (ﬁle name: iris.data) from [https://archive.ics.uci.edu/ml/](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/)
+\1. Download the iris data set (ﬁle name: iris.data) from [https://archive.ics.uci.edu/ml/](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/)ꢀ
 
-[machine-learning-databases/iris/](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/)ꢀ
-
-\2. Create a new python ﬁle with a name iris in the Syder editor. Put the iris.data ﬁle in the
+\2. Create a new python ﬁle with a name iris in the Syder editor or Jupyter notebook. Put the iris.data ﬁle in the
 
 same directory where model.py resides.ꢀ
 
@@ -52,3 +51,11 @@ get created in the same directory where iris.data resides. ꢀ
 
 Woohoo, App is ready! ꢀ
 
+App's Screenshots:
+
+
+<img src="App's Screenshots/Iris Prediction App img1.png" width="280" height="480">
+<img src="App's Screenshots/Iris Prediction App img2.png" width="280" height="480">
+
+
+Contributor- Prachi Bhatt
