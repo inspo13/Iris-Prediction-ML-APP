@@ -51,7 +51,12 @@ get created in the same directory where iris.data resides. ꢀ
 
 Woohoo, App is ready! ꢀ
 
+App's Screenshots:
 
+
+<img src="Main-Iris Prediction-App/App's Screenshots/Iris Prediction App img1.png" width="280" height="480">
+<img src="Main-Iris Prediction-App/App's Screenshots/Iris Prediction App img2.png" width="280" height="480">
 
 
 Contributor- Prachi Bhatt
+
